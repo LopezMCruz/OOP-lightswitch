@@ -18,5 +18,8 @@ def shuffle(deckListIn):
     random.shuffle(deckListOut)
     return deckListOut
 
-if __name__ == main:
+def main():
     pass
+
+if __name__ == main:
+    main()

@@ -12,6 +12,6 @@ class LightSwitch():
         print(self.switchIsOn)
         
 if __name__ == "__main__":
-    # instiate object here:
+    # instantiate object here:
     TODO
     # use class methods here:
